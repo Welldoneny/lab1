@@ -1,0 +1,13 @@
+C:\Users\Admin\Desktop\TPU\3 semester\C#\lab1.3\Bank\Bank\bin\Debug\Bank.exe.config
+C:\Users\Admin\Desktop\TPU\3 semester\C#\lab1.3\Bank\Bank\bin\Debug\Bank.exe
+C:\Users\Admin\Desktop\TPU\3 semester\C#\lab1.3\Bank\Bank\bin\Debug\Bank.pdb
+C:\Users\Admin\Desktop\TPU\3 semester\C#\lab1.3\Bank\Bank\bin\Debug\Bank_Library.dll
+C:\Users\Admin\Desktop\TPU\3 semester\C#\lab1.3\Bank\Bank\bin\Debug\Bank_Library.pdb
+C:\Users\Admin\Desktop\TPU\3 semester\C#\lab1.3\Bank\Bank\obj\Debug\Bank.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\TPU\3 semester\C#\lab1.3\Bank\Bank\obj\Debug\Bank.Properties.Resources.resources
+C:\Users\Admin\Desktop\TPU\3 semester\C#\lab1.3\Bank\Bank\obj\Debug\Bank.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\TPU\3 semester\C#\lab1.3\Bank\Bank\obj\Debug\Bank.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\TPU\3 semester\C#\lab1.3\Bank\Bank\obj\Debug\Bank.csproj.CopyComplete
+C:\Users\Admin\Desktop\TPU\3 semester\C#\lab1.3\Bank\Bank\obj\Debug\Bank.exe
+C:\Users\Admin\Desktop\TPU\3 semester\C#\lab1.3\Bank\Bank\obj\Debug\Bank.pdb
+C:\Users\Admin\Desktop\TPU\3 semester\C#\lab1.3\Bank\Bank\obj\Debug\Bank.Form1.resources
