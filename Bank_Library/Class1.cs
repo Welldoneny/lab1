@@ -14,20 +14,8 @@ namespace Bank_Library
         //Last name of bank account owner
         private string last_name;
 
-        private int amount_of_checks;
         //List with bank account owner's checks
         private List<Check> checks = new List<Check>();
-
-        /// <summary>
-        /// 
-        /// </summary>
-        /// <param name="id">id of the check</param>
-        /// <param name="s">sum of the credit</param>
-        /// <param name="t">time of the credit</param>
-        public void credit(int  id, int s, int t)
-        {
-            checks[id].MakeCredit(s, t);
-        }
 
         /// <summary>
         /// returns name of bank account owner
@@ -64,7 +52,7 @@ namespace Bank_Library
         /// </summary>
         /// <param name="i">id of the check</param>
         /// <param name="m">money to minus</param>
-        public  void minys (int i, int m)
+        public  void Minys (int i, int m)
         {
             checks[i].MinusMoney(m);
         }
@@ -120,11 +108,6 @@ namespace Bank_Library
         private string name;
         //money on the check
         private int money;
-
-        public void MakeCredit(int sum, int time)
-        {
-
-        }
 
         /// <summary>
         /// Constructor for bank check
