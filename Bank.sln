@@ -1,11 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 17
-VisualStudioVersion = 17.7.34024.191
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34031.81
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bank", "Bank\Bank.csproj", "{EF5AF42B-BE0E-4A83-9EE2-9A1A8D5C8482}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bank_Library", "Bank_Library\Bank_Library.csproj", "{28D34582-41F1-4AE4-B54B-80719BDB5AD5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestBankLibrary", "Tests\UnitTestBankLibrary\UnitTestBankLibrary.csproj", "{584AC286-CE90-49EF-8941-C45714FE3A67}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{28D34582-41F1-4AE4-B54B-80719BDB5AD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{28D34582-41F1-4AE4-B54B-80719BDB5AD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{28D34582-41F1-4AE4-B54B-80719BDB5AD5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{584AC286-CE90-49EF-8941-C45714FE3A67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{584AC286-CE90-49EF-8941-C45714FE3A67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{584AC286-CE90-49EF-8941-C45714FE3A67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{584AC286-CE90-49EF-8941-C45714FE3A67}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

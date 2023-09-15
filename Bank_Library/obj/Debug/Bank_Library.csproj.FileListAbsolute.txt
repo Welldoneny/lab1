@@ -9,3 +9,4 @@ C:\Users\Admin\Desktop\TPU\3 semester\C#\lab1.3\lab1\Bank\Bank_Library\bin\Debug
 C:\Users\Admin\Desktop\TPU\3 semester\C#\lab1.3\lab1\Bank\Bank_Library\obj\Debug\Bank_Library.csproj.CoreCompileInputs.cache
 C:\Users\Admin\Desktop\TPU\3 semester\C#\lab1.3\lab1\Bank\Bank_Library\obj\Debug\Bank_Library.dll
 C:\Users\Admin\Desktop\TPU\3 semester\C#\lab1.3\lab1\Bank\Bank_Library\obj\Debug\Bank_Library.pdb
+C:\Users\Admin\Desktop\TPU\3 semester\C#\lab1.3\lab1\Bank\Bank_Library\obj\Debug\Bank_Library.csproj.AssemblyReference.cache
